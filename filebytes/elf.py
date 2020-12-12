@@ -122,6 +122,7 @@ class EM(Enum):
     XTENSA = 94
     NUM = 95
     ARM64 = 183
+    RISCV = 243
 
 
 class EI(Enum):
